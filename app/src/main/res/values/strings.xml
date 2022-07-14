@@ -6,7 +6,7 @@
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
     <string name="title_activity_fullscreen">FullscreenActivity</string>
-    <string name="remember_me">Remember me</string>
+    <string name="remember_me">Remember Me</string>
     <string name="user_name">User Name</string>
     <string name="password">Password</string>
     <string name="login">Login</string>
@@ -25,7 +25,7 @@
     <string name="ps">Personal Information</string>
     <string name="app">APP</string>
     <string name="update">Update</string>
-    <string name="goal">Goal</string>
+    <string name="goal">Goals</string>
     <string name="symptoms">Symptoms</string>
     <string name="diet">Diet</string>
     <string name="px">Px</string>
@@ -49,14 +49,14 @@
     <string name="n_f">Name of Food</string>
     <string name="weight">Weight</string>
     <string name="w_f">Weight of Food</string>
-    <string name="gram">g(grams)</string>
+    <string name="gram">g(grams)</string> //maybe use calories isntead??
     <string name="title">Title</string>
     <string name="note">Note</string>
     <string name="view">View</string>
-    <string name="banner_word">Health  Tracking Made Easy!</string>
+    <string name="banner_word">Health Tracking Made Easy!</string>
 
     <string name="activity_add_goal_title">Add Symptoms or Goals Here</string>
-    <string name="activity_add_goal_edit_text_goal_name">Please enter the Symptoms or Goals\' name</string>
+    <string name="activity_add_goal_edit_text_goal_name">Enter the symptom/goal here: \' name</string>
     <string name="activity_add_goal_edit_text_goal_date">Enter a time </string>
     <string name="activity_add_goal_edit_text_add_something">Click the Button right to Add something </string>
     <string name="activity_add_goal_edit_text_add_goal">Add goal </string>
@@ -84,7 +84,7 @@
     <string name="activity_diet_information_update">Update Diet </string>
     <string name="activity_diet_information_add">Add a diet menu </string>
 
-    <string name="activity_doctor_information_title">Please Tell us Something About Your Doctor </string>
+    <string name="activity_doctor_information_title">Doctor Information </string>
     <string name="activity_doctor_information_doctor_name">Doctor\'s Name </string>
     <string name="activity_doctor_information_doctor_edit_name">Please Enter Doctor\'s Name </string>
     <string name="activity_doctor_information_doctor_email">Doctor\'s Email </string>
@@ -95,7 +95,7 @@
     <string name="activity_doctor_information_button_add">Add a new doctor </string>
     <string name="activity_doctor_information_button_update">Update Doctor Information </string>
 
-    <string name="activity_event_selection_title">Add a activity </string>
+    <string name="activity_event_selection_title">Add an activity </string>
     <string name="activity_event_selection_start_time">Start Time </string>
     <string name="activity_event_selection_end_time">End Time </string>
     <string name="activity_event_selection_type">Type of Activity </string>
@@ -106,7 +106,7 @@
 
     <string name="activity_export_data_start">Start Date </string>
     <string name="activity_export_data_end">End Date </string>
-    <string name="activity_export_data_sub_title">Output the part you want </string>
+    <string name="activity_export_data_sub_title">Select the section(s) to export </string>
     <string name="activity_export_data_button">Generate PDF </string>
 
     <string name="activity_pre_information_title">Please let us know your conditions </string>
@@ -130,66 +130,64 @@
         and that getting a good night\'s sleep can make us feel ready to take on the world.
     </string>
     <string name="mental_activity_fragment_ac2">Yoga</string>
-    <string name="mental_activity_fragment_ac2_d">Increased flexibility. increased muscle strength and tone.
-        improved respiration, energy and vitality. maintaining a balanced metabolism. weight reduction.
-        cardio and circulatory health. improved athletic performance. protection from injury.
+    <string name="mental_activity_fragment_ac2_d"> Benefits include: increased flexibility, muscle strength and tone. It also 
+        improves respiration, energy and vitality. Yoga helps to main a balanced metabolism, can aid in weight reduction, and can improve
+        cardio and circulatory health. 
     </string>
 
     <string name="physical_activity_fragment_ac1">Jogging</string>
-    <string name="physical_activity_fragment_ac1_d">Help to build strong bones,
-        as it is a weight bearing exercise strengthen muscles improve cardiovascular
-        fitness burn plenty of kilojoules help maintain a healthy weight.
+    <string name="physical_activity_fragment_ac1_d">Helps to build strong bones,
+        as it is a weight bearing exercise that strengthens muscles, improve cardiovascular
+        fitness, and burns plenty of calories/kilojoules to help maintain a healthy weight.
     </string>
     <string name="physical_activity_fragment_ac2">Running</string>
-    <string name="physical_activity_fragment_ac2_d">Help to build strong bones,
-        as it is a weight bearing exercise strengthen muscles improve cardiovascular
-        fitness burn plenty of kilojoules help maintain a healthy weight.
+    <string name="physical_activity_fragment_ac2_d">Helps to build strong bones,
+        as it is a weight bearing exercise that strengthens muscles, improve cardiovascular
+        fitness, and burns plenty of calories/kilojoules to help maintain a healthy weight.
     </string>
     <string name="physical_activity_fragment_ac3">Swimming</string>
-    <string name="physical_activity_fragment_ac3_d">keeps your heart rate up but takes some of the impact stress off your body.
-        builds endurance, muscle strength and cardiovascular fitness. helps maintain a healthy weight, healthy heart and lungs.
-        tones muscles and builds strength
+    <string name="physical_activity_fragment_ac3_d">Keeps your heart rate up while taking some of the impact stress off of your body.
+        It helps to build endurance, muscle strength and cardiovascular fitness. Swimming also helps to maintain a healthy weight, healthy heart and lungs.
     </string>
     <string name="physical_activity_fragment_ac4">Cycling</string>
-    <string name="physical_activity_fragment_ac4_d">increased cardiovascular fitness increased muscle strength and
-        flexibility improved joint mobility decreased stress levels improved posture and
-        coordination strengthened bones decreased body fat levels prevention or management of disease reduced anxiety and depression.
+    <string name="physical_activity_fragment_ac4_d"> Consistent cycling can help build cardiovascular fitness, muscle strength and 
+        flexibility. It can also improve joint mobility and posture, while decreasing stress levels. 
     </string>
 
 
-    <string name="ob1"> Keep track of all of your health data directly in the app.
-        Enter your activity, symtoms and diet in their respective pages</string>
-    <string name="ob2"> View your health data and see how you are processing all in the same place</string>
-    <string name="ob3"> Set both short term and long term goals to improve your life today and down the road</string>
-    <string name="ob4"> Set both short term and long term goals to improve your life today and down the road</string>
+    <string name="ob1"> Record all of your health data in the app so it's all in one place</string>
+    <string name="ob2"> Keep track of your prescriptions and appointments </string>
+    <string name="ob3"> Log your mental and physical health, exercise, and diet </string>
+    <string name="ob4"> Set both short term and long term goals to improve your life</string>
 
     <string-array name="diease_name">
-        <item>Please choose your conditions</item>
+        <item>Please choose your conditions</item> //we could do a dropdown menu instead of top 50 most common diseases
         <item>Type-2 Diabetes</item>
         <item>Depression</item>
         <item>Arthritis</item>
         <item>End Stage Renal Disease</item>
-        <item>None.</item>
+        <item>Other</item> //add option here for them to create their own disease
     </string-array>
 
     <string-array name="physical_activity">
-        <item>Please choose your Activity</item>
-        <item>Jogging</item>
+        <item>Select Activity Type: </item>
+        <item>Walking</item>
         <item>Running</item>
         <item>Swimming</item>
         <item>Cycling</item>
+        <item>Other</item> //add option here for them to create their own activity
     </string-array>
 
     <string-array name="mental_activity">
-        <item>Please choose your Activity</item>
+        <item>Select Activity Type: </item>
         <item>Sleep</item>
         <item>Movie</item>
         <item>Yoga</item>
-        <item>Other</item>
+        <item>Other</item> //add option here for them to create their own activity
     </string-array>
 
     <string-array name="diet_type">
-        <item>Please choose your Type</item>
+        <item>Select Meal: </item>
         <item>Breakfast</item>
         <item>Lunch</item>
         <item>Snacks</item>
@@ -197,7 +195,7 @@
     </string-array>
 
     <string-array name="type_goal">
-        <item>Please choose your Type</item>
+        <item>Select One: </item>
         <item>Goal</item>
         <item>Symptom</item>
     </string-array>
